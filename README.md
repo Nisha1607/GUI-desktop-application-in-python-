@@ -18,9 +18,10 @@ Oracle Database Express Edition (XE) is a free edition of Oracle Database.Oracle
 
 #output 
 
-![m1](htt![m2](https://user-images.githubusercontent.com/57458313/118669375-51ba8600-b813-11eb-94c5-70bde9fbb01e.PNG)
-ps://user-images.githubusercontent.com/57458313/118669302-48311e00-b813-11eb-9ee4-54389f9398af.PNG)
-![m3](https://user-images.githubusercontent.com/57458313/118669475-6565ec80-b813-11eb-85ea-f9fa8bc42287.PNG)
-![m4](https://user-images.githubusercontent.com/57458313/118669480-66971980-b813-11eb-94d0-fab26e4859fc.PNG)
-![m5](https://user-images.githubusercontent.com/57458313/118669482-66971980-b813-11eb-9236-35a564d5c544.PNG)
-![m6](https://user-images.githubusercontent.com/57458313/118669486-67c84680-b813-11eb-9278-a899ce6c2207.PNG)
+![m1](https://user-images.githubusercontent.com/57458313/118669644-8b8b8c80-b813-11eb-997e-6116ae0e45d5.PNG)
+![m2](https://user-images.githubusercontent.com/57458313/118669652-8cbcb980-b813-11eb-8462-386dd7969de4.PNG)
+![m3](https://user-images.githubusercontent.com/57458313/118669655-8d555000-b813-11eb-9e24-87c3b50fd9c8.PNG)
+![m4](https://user-images.githubusercontent.com/57458313/118669658-8dede680-b813-11eb-9482-df58059e4786.PNG)
+![m5](https://user-images.githubusercontent.com/57458313/118669662-8dede680-b813-11eb-8b8c-56d8dd58f494.PNG)
+![m6](https://user-images.githubusercontent.com/57458313/118669664-8e867d00-b813-11eb-88e8-549bf2056561.PNG)
+
